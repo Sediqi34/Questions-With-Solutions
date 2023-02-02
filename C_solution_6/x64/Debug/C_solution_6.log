@@ -1,0 +1,4 @@
+﻿  C_solution_6.c
+C:\Users\safiu\OneDrive\Masaüstü\My_Solutions\My_C_Solutions\C_solution_6\C_solution_6.c(12,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\safiu\OneDrive\Masaüstü\My_Solutions\My_C_Solutions\C_solution_6\C_solution_6.c(13,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  C_solution_6.vcxproj -> C:\Users\safiu\OneDrive\Masaüstü\My_Solutions\My_C_Solutions\C_solution_6\x64\Debug\C_solution_6.exe
